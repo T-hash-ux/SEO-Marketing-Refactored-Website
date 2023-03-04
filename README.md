@@ -5,7 +5,7 @@ The purpsose of this assignment was to debug and refactor existing code to impro
 
 ![webpage image](assets/images/_Users_tyrrancemiller_Desktop_bootcamp_activity-workspace_Unit-01-homework_index.html.png)
  
- https://t-hash-ux.github.io/Unit-01-homework/
+ https://t-hash-ux.github.io/SEO-Marketing-Refactored-Website/
 
  ## Credits
  Matthew Lombard
