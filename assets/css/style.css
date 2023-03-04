@@ -139,14 +139,14 @@ content img {
 .footer h4 {
     font-size: 20px;   
 }
-
+/* Used media Querying to make site adjustable to any device or screen */
 @media screen and (max-width: 768px) {
     nav {
       background-color: #bb8588;
     }
   }
   
-  /* Small smartphones - image placeholders change color */
+  
   @media screen and (max-width: 576px) {
     .sample-img {
       background-color: #8ac4ff;
