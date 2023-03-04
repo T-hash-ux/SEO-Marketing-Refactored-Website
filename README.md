@@ -1,4 +1,4 @@
-# Unit-01-homework 
+# SEO-Marketing-Website-Refactor
 
 ## Description
 The purpsose of this assignment was to debug and refactor existing code to improve its structure, readability, and performance. My motivation for this assignment was to carefully and percisely clean up the source code by condensing repetitive code and replaced non semantic elements with semantic elements. By doing so we were able to to make the code more comprehensible and manageable.
